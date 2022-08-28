@@ -1,0 +1,5 @@
+https://codeforces.com/contest/1720/problem/A
+https://codeforces.com/contest/1720/problem/B
+https://codeforces.com/contest/1720/problem/C
+C:\Users\tbziy\Documents\GitHub\leetcode\main_codeforces.cpp
+C:\Users\tbziy\Documents\GitHub\leetcode\main_codeforces.py
