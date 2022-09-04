@@ -1,6 +1,8 @@
-https://codeforces.com/contest/1720/problem/A
-https://codeforces.com/contest/1720/problem/B
-https://codeforces.com/contest/1720/problem/C
-C:\Users\tbziy\Documents\GitHub\leetcode\main_codeforces.cpp
-C:\Users\tbziy\Documents\GitHub\leetcode\main_codeforces.py
+https://codeforces.com/contest/1722/problem/A
+https://codeforces.com/contest/1722/problem/B
+https://codeforces.com/contest/1722/problem/C
+https://codeforces.com/contest/1722/problem/D
+https://codeforces.com/contest/1722/problem/E
+https://codeforces.com/contest/1722/problem/F
+https://codeforces.com/contest/1722/problem/G
 C:\Users\tbziy\Documents\GitHub\cfeditor\context.py
